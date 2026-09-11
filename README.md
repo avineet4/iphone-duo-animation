@@ -4,8 +4,9 @@ A SwiftUI + Metal experiment that turns your iPhone's tilt into a live "iPhone D
 
 The app renders a full-screen image and applies a custom Metal shader that warps, dims, and blurs the image along a virtual crease, driven in real time by `CoreMotion` device-attitude data.
 
-## Demo 
-https://github.com/avineet4/iphone-duo-animation/blob/main/Demo.mov
+## Demo
+
+https://github.com/user-attachments/assets/49790f41-ee9f-4864-a694-c6873f35f27b
 
 ## How it works
 
