@@ -1,8 +1,11 @@
 # iPhone Duo Animation
 
-A SwiftUI + Metal experiment that turns your iPhone's tilt into a live "fold" effect — as if the screen is a hinged, book-style device (à la Surface Duo) bending in response to how you hold the phone.
+A SwiftUI + Metal experiment that turns your iPhone's tilt into a live "iPhone Duo" effect - as if the screen is a hinged bending in response to how you hold the phone.
 
 The app renders a full-screen image and applies a custom Metal shader that warps, dims, and blurs the image along a virtual crease, driven in real time by `CoreMotion` device-attitude data.
+
+## Demo 
+https://github.com/avineet4/iphone-duo-animation/blob/main/Demo.mov
 
 ## How it works
 
